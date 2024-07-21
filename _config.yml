@@ -1,0 +1,6 @@
+title: News Sites
+url: "http://example.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
