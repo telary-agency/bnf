@@ -1,56 +1,59 @@
-- name: The New York Times
-  logo: https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png
-  url: https://www.nytimes.com
-  last_published: 2024-07-21
+- name: Arrêts sur Images
+  logo: https://upload.wikimedia.org/wikipedia/commons/d/d9/Arret_sur_images_logo.svg
+  url: https://www-alternatives-economiques-fr.bnf.idm.oclc.org/
   part: website
-- name: The Washington Post
-  logo: https://upload.wikimedia.org/wikipedia/commons/9/93/The_Logo_of_The_Washington_Post_Newspaper.svg
-  url: https://www.washingtonpost.com
-  last_published: 2024-07-21
+
+- name: Mediapart
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/61/Mediapart_logo.svg
+  url: https://www-mediapart-fr.bnf.idm.oclc.org/
   part: website
-- name: The Wall Street Journal
-  logo: https://upload.wikimedia.org/wikipedia/commons/4/4a/WSJ_Logo.svg
-  url: https://www.wsj.com
-  last_published: 2024-07-21
+
+- name: Alternatives Économiques
+  logo: https://upload.wikimedia.org/wikipedia/fr/2/24/Alternatives_%C3%A9conomiques_logo_2018.svg
+  url: https://www-alternatives-economiques-fr.bnf.idm.oclc.org/
   part: website
-- name: BBC News
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png
-  url: https://www.bbc.com/news
-  last_published: 2024-07-21
-  part: website
-- name: CNN
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png
-  url: https://www.cnn.com
-  last_published: 2024-07-21
-  part: website
-- name: Reuters
-  logo: https://upload.wikimedia.org/wikipedia/commons/8/8d/Reuters_Logo.svg
-  url: https://www.reuters.com
-  last_published: 2024-07-21
-  part: website
-- name: The New York Times
-  logo: https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png
-  url: https://www.nytimes.com
-  last_published: 2024-07-21
-  part: website  
+
+- name: Le Figaro
+  logo: https://upload.wikimedia.org/wikipedia/commons/5/5d/Le_Figaro_logo.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/le-figaro
+  part: digital-edition
+
+- name: Libération
+  logo: https://upload.wikimedia.org/wikipedia/commons/4/4e/Liberation_logo.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/liberation
+  part: digital-edition
+
+- name: L'Humanité
+  logo: https://upload.wikimedia.org/wikipedia/commons/1/1d/L%27Humanit%C3%A9_logo.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/l-humanite
+  part: digital-edition
+
+- name: Le Nouvel Économiste
+  logo: https://upload.wikimedia.org/wikipedia/commons/9/98/Le_Nouvel_%C3%89conomiste_logo.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/le-nouvel-economiste
+  part: digital-edition
+
+- name: L'Opinion
+  logo: https://upload.wikimedia.org/wikipedia/commons/4/4b/L%27Opinion_logo.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/l-opinion
+  part: digital-edition
+
+- name: L'Équipe
+  logo: https://upload.wikimedia.org/wikipedia/commons/3/32/L%27%C3%89quipe_wordmark.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/l-equipe
+  part: digital-edition
+
+- name: The Economist
+  logo: https://upload.wikimedia.org/wikipedia/commons/6/65/The_Economist_Logo.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/magazines/m/the-economist-eu
+  part: digital-edition
 
 - name: The Wall Street Journal
   logo: https://upload.wikimedia.org/wikipedia/commons/4/4a/WSJ_Logo.svg
-  url: https://www.wsj.com
-  last_published: 2024-07-21
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/the-wall-street-journal
   part: digital-edition
-- name: BBC News
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png
-  url: https://www.bbc.com/news
-  last_published: 2024-07-21
-  part: digital-edition
-- name: CNN
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png
-  url: https://www.cnn.com
-  last_published: 2024-07-21
-  part: digital-edition
-- name: The New Yorker
-  logo: https://upload.wikimedia.org/wikipedia/commons/8/8a/NewYorkerLogo.svg
-  url: https://www.newyorker.com/digital-edition
-  last_published: 2024-07-21
+
+- name: The Washington Post
+  logo: https://upload.wikimedia.org/wikipedia/commons/9/93/The_Logo_of_The_Washington_Post_Newspaper.svg
+  url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/the-washington-post
   part: digital-edition
