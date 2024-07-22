@@ -1,40 +1,40 @@
 - name: Arrêts sur Images
-  logo: https://upload.wikimedia.org/wikipedia/commons/d/d9/Arret_sur_images_logo.svg
-  url: https://www-alternatives-economiques-fr.bnf.idm.oclc.org/
+  logo: https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/LOGO_%40SI_FINAL.svg/langfr-1920px-LOGO_%40SI_FINAL.svg.png
+  url: https://www-arretsurimages-net.bnf.idm.oclc.org/
   part: website
 
 - name: Mediapart
-  logo: https://upload.wikimedia.org/wikipedia/commons/6/61/Mediapart_logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/fr/5/5d/Mediapart_logo.svg
   url: https://www-mediapart-fr.bnf.idm.oclc.org/
   part: website
 
 - name: Alternatives Économiques
-  logo: https://upload.wikimedia.org/wikipedia/fr/2/24/Alternatives_%C3%A9conomiques_logo_2018.svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/b/bc/Alternatives_Economiques_logo.svg
   url: https://www-alternatives-economiques-fr.bnf.idm.oclc.org/
   part: website
 
 - name: Le Figaro
-  logo: https://upload.wikimedia.org/wikipedia/commons/5/5d/Le_Figaro_logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/fr/5/56/LeFigaro.fr_Logo.svg
   url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/le-figaro
   part: digital-edition
 
 - name: Libération
-  logo: https://upload.wikimedia.org/wikipedia/commons/4/4e/Liberation_logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_liberation.svg
   url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/liberation
   part: digital-edition
 
 - name: L'Humanité
-  logo: https://upload.wikimedia.org/wikipedia/commons/1/1d/L%27Humanit%C3%A9_logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_L%27Humanit%C3%A9.svg
   url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/l-humanite
   part: digital-edition
 
 - name: Le Nouvel Économiste
-  logo: https://upload.wikimedia.org/wikipedia/commons/9/98/Le_Nouvel_%C3%89conomiste_logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_nouvel_eco.jpg/230px-Logo_nouvel_eco.jpg
   url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/le-nouvel-economiste
   part: digital-edition
 
 - name: L'Opinion
-  logo: https://upload.wikimedia.org/wikipedia/commons/4/4b/L%27Opinion_logo.svg
+  logo: https://upload.wikimedia.org/wikipedia/commons/0/09/L-opinion.svg
   url: https://www-pressreader-com.bnf.idm.oclc.org/newspapers/n/l-opinion
   part: digital-edition
 
