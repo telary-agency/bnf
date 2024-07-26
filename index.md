@@ -1,8 +1,15 @@
 ---
 layout: default
 ---
+<div class="announcement-banner">
+  <div class="banner-content">
+    <a href="https://inscriptionbilletterie.bnf.fr/" class="banner-button">Prendre votre pass BNF</a>
+    <a href="https://x.com/constant_des" target="_blank" rel="noopener noreferrer" class="banner-button">Suivez nous sur Twitter</a>
+  </div>
+</div>
+
 <div class="news-container">
-  <div class="news-section" id="websites">
+  <div class="news-section active" id="websites">
     <h2 class="section-title">Websites</h2>
     <div class="container">
       {% for newspaper in site.data.newspapers %}
@@ -45,3 +52,4 @@ layout: default
   <button class="tab-btn active" data-target="websites">Websites</button>
   <button class="tab-btn" data-target="digital-editions">Digital Editions</button>
 </div>
+

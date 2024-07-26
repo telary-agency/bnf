@@ -1,6 +1,6 @@
-title: News Sites
+title: Telary BNF
 url: "http://example.com"
-baseurl: ""
+baseurl: "/bnf"
 
 # Build settings
 markdown: kramdown

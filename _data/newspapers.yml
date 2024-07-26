@@ -5,7 +5,7 @@
 
 - name: Mediapart
   logo: https://upload.wikimedia.org/wikipedia/fr/5/5d/Mediapart_logo.svg
-  url: https://www-mediapart-fr.bnf.idm.oclc.org/
+  url: https://bnf.idm.oclc.org/login?url=http://www.mediapart.fr/licence
   part: website
 
 - name: Alternatives Économiques
